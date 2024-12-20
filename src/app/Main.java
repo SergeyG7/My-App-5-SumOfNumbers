@@ -11,6 +11,8 @@ public class Main {
              System.out.println(count + ") Num is " + num + ", sum is " + sum);
              count++;
          }
+        System.out.println("----------------------");
+        System.out.println("Sum of numbers: " + sum);
     }
     
 }
